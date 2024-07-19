@@ -1,7 +1,6 @@
 I khush  Diyora This is the Machine Learning Project Of Restaurant Dataset it contains 4 tasks are:
 
-#########################################################################################################################################################################
-
+#######################################################################################
 # Task 1 : Predict Restaurant Ratings
 
 ## Objective: Build a machine learning model to predict the aggregate rating of a restaurant based on other features.
@@ -16,7 +15,7 @@ Evaluate the model's performance using appropriate regression metrics (e.g., mea
 
 Interpret the model's results and analyze the most influential features affecting restaurant ratings.
 
-#########################################################################################################################################################################
+#######################################################################################
 
 # Task 2 : Restaurant Recommendation
 
@@ -50,7 +49,7 @@ Evaluate the model's performance using appropriate classification metrics (e.g.,
 
 Analyze the model's performance across different cuisines and identify any challenges or biases.
 
-#########################################################################################################################################################################
+#######################################################################################
 
 # Task 4 :  Location-based Analysis
 
@@ -66,7 +65,7 @@ Calculate statistics such as the average ratings, cuisines, or price ranges by c
 
 Identify any interesting insights or patterns related to the locations of the restaurants.
 
-#########################################################################################################################################################################
+#######################################################################################
 
 If we find that this can be used for personal use, it must be illegal under the Copyright Law of India 2000 (Section 43 of the Information Technology Act, 2000). This project is not allowed to be changed in any way because it may contain copyright offenses. Instead, it is for machine learning purposes.
 
@@ -74,6 +73,7 @@ Section 43 of the Information Technology Act, 2000 contains:
 
 provides for compensation to the aggrieved party up to One Crore of Rupees from a person, who without the permission of the owner or the person who is in charge of computer, computer system or computer net-work secures, access to the system or down-loads data or down-loads ...
 
+#######################################################################################
 
 ![Khush diyora](https://github.com/user-attachments/assets/6ae3d316-876e-483b-8d0d-d988b4704ccc)
 
