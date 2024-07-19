@@ -31,7 +31,7 @@ Implement a content-based filtering approach where users are recommended restaur
 
 Test the recommendation system by providing sample user preferences and evaluating the quality of recommendations.
 
-#########################################################################################################################################################################
+#######################################################################################
 
 # Task 3 : Cuisine Classification
 
