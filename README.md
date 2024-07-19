@@ -75,5 +75,6 @@ Section 43 of the Information Technology Act, 2000 contains:
 provides for compensation to the aggrieved party up to One Crore of Rupees from a person, who without the permission of the owner or the person who is in charge of computer, computer system or computer net-work secures, access to the system or down-loads data or down-loads ...
 
 
-![Khush diyora- cognifyz](https://github.com/user-attachments/assets/06ea4de5-74e6-48fa-a51e-b9bf1cb01531)
+![Khush diyora](https://github.com/user-attachments/assets/6ae3d316-876e-483b-8d0d-d988b4704ccc)
+
 
